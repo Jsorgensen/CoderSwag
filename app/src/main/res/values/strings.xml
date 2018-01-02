@@ -3,4 +3,6 @@
     <string name="categories">Categories</string>
     <string name="hats">HATS</string>
     <string name="products">Products</string>
+    <string name="product_image">Product image</string>
+    <string name="add_to_cart">Add To Cart</string>
 </resources>
